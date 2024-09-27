@@ -5,7 +5,7 @@ This web is a responsive **frontend app** generated with **Angular 18** and **Bo
 
 ## Sections:
 
- - [ ] sign Up : for register in the web
+ - [ ] sign Up : for register on the web
  - [ ] Sing In:  for login previous registration ( user: yanet.wilmar@gmail.com  pass: 2024*  - for tests)
  - [ ] My favorites videos:  main paginated view with the videos added  and the place where you can do another actions.(explore, update or delete).
  - [ ] Add favorites: for adding the videos to your personal collection.
